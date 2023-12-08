@@ -4,7 +4,7 @@
  <p align="center">
  
  <h2 align="center">Senior DevOps Engineer</h2>
- <p align="center">specializing in CI/CD pipelines, Docker and Kubernetes container orchestration, and infrastructure design with Terraform and Ansible.</p>
+ <p align="center">Specializing in CI/CD pipelines, Docker and Kubernetes container orchestration, and infrastructure design with Terraform and Ansible.</p>
 </p>
 
  <p align="center">
