@@ -1,4 +1,4 @@
- [![MasterHead]((images/7041508.jpg))](https://liwox.net)
+ [![MasterHead](images/7041508.jpg)](https://liwox.net)
 
 
  <p align="center">
