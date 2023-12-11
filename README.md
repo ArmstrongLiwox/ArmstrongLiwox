@@ -1,4 +1,4 @@
- [![MasterHead](images/git dp.jpg)](https://www.linkedin.com/in/armstrong-uzoagwa-devops/)
+ [![dp](<images/git dp.jpg>)](https://www.linkedin.com/in/armstrong-uzoagwa-devops/)
 
  <p align="center">
  
