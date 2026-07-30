@@ -1,129 +1,110 @@
-# Armstrong Uzoagwa 👋
 
-::: {align="center"}
-# **Cloud Platform Engineer • DevOps • AI Builder**
+<div align="center">
 
-*Building scalable cloud infrastructure, AI-powered applications, and
-modern software products.*
+<img src="./images/git dp.jpg" width="180" style="border-radius:50%;" />
 
-![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AWS+%7C+Kubernetes+%7C+Terraform;Cloudflare+Workers+%7C+Astro;DevOps+Engineer;Building+Liwox+Platforms)
-:::
+# Armstrong Uzoagwa
 
-------------------------------------------------------------------------
+### Cloud Platform Engineer • DevOps • AI Builder
 
-## 🚀 About Me
+Building scalable cloud infrastructure, AI-powered applications and modern software products.
 
-I'm a DevOps Engineer with experience designing, automating and
-operating cloud infrastructure while building production-ready software
-products.
+<p>
+<a href="https://www.linkedin.com/in/armstrong-uzoagwa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:liwox.net@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-### Current Focus
+<img src="./images/7041508.jpg" width="100%" />
 
--   ☁ AWS Cloud Infrastructure
--   ⚙ Kubernetes & Docker
--   🏗 Infrastructure as Code with Terraform
--   🌐 Cloudflare Workers & D1
--   🤖 AI-powered business applications
--   🚀 Product Engineering
+</div>
 
-------------------------------------------------------------------------
+---
 
-## 🌟 Featured Projects
+# 👋 About Me
 
-  ------------------------------------------------------------------------
-  Project                Description                     Stack
-  ---------------------- ------------------------------- -----------------
-  **Liwox Recruitment**  AI-powered recruitment platform Astro ·
-                                                         Cloudflare · D1
+I build secure, automated cloud platforms and modern web applications with a focus on scalability, reliability and business value.
 
-  **Liwox Forms**        Multi-tenant forms platform     Astro SSR ·
-                                                         Workers
+## 🚀 Currently Building
 
-  **Forex Delight**      Subscription dashboard          Workers ·
-                                                         Authentication
+- 🏢 Liwox Recruitment
+- 📋 Liwox Forms
+- 📈 Forex Delight
+- 🤖 AI Receptionist
+- ☁ Cloudflare Worker APIs
 
-  **AI Receptionist**    AI phone automation             OpenAI ·
-                                                         Cloudflare
-  ------------------------------------------------------------------------
+---
 
-------------------------------------------------------------------------
+# 🛠 Tech Stack
 
-## 🧰 Tech Stack
+| Cloud | DevOps | Languages | Frontend | Backend |
+|-------|---------|-----------|----------|----------|
+| AWS | Docker | JavaScript | Astro | Cloudflare Workers |
+| Cloudflare | Kubernetes | TypeScript | Tailwind CSS | Node.js |
+| Linux | Terraform | Python | HTML/CSS | D1 |
 
-### Cloud
+---
 
-AWS • Cloudflare
+# 🏗 Engineering Workflow
 
-### Containers
-
-Docker • Kubernetes
-
-### Infrastructure
-
-Terraform • GitHub Actions
-
-### Languages
-
-JavaScript • TypeScript • Python
-
-### Frontend
-
-Astro • Tailwind CSS
-
-### Backend
-
-Cloudflare Workers • Node.js • D1
-
-------------------------------------------------------------------------
-
-## 🏛 Engineering Philosophy
-
-``` text
+```text
 Idea
- ↓
+  ↓
 Architecture
- ↓
+  ↓
 Infrastructure
- ↓
+  ↓
 Automation
- ↓
+  ↓
 Deployment
- ↓
+  ↓
 Monitoring
- ↓
+  ↓
 Continuous Improvement
 ```
 
-------------------------------------------------------------------------
+---
 
-## 📈 GitHub Stats
+# 🌟 Featured Projects
 
-::: {align="center"}
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+| Project | Description |
+|---------|-------------|
+| **Liwox Recruitment** | AI-powered recruitment platform connecting employers and candidates. |
+| **Liwox Forms** | Multi-tenant lead capture and campaign platform. |
+| **Forex Delight** | Subscriber dashboard built with Cloudflare Workers. |
+| **AI Receptionist** | AI voice assistant for SMEs. |
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true)
+---
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-:::
+# 📊 GitHub Statistics
 
-------------------------------------------------------------------------
+<div align="center">
 
-## 📌 Current Build Status
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArmstrongLiwox&show_icons=true&theme=github_dark&hide_border=true"/>
 
--   🟢 Liwox Recruitment
--   🟢 Liwox Forms
--   🟡 AI Receptionist
--   🟡 Forex Delight
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmstrongLiwox&theme=github-dark&hide_border=true"/>
 
-------------------------------------------------------------------------
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmstrongLiwox&layout=compact&theme=github_dark&hide_border=true"/>
 
-## 🤝 Connect
+</div>
 
--   LinkedIn: https://www.linkedin.com/in/armstrong-uzoagwa/
--   Email: liwox.net@gmail.com
+---
 
-------------------------------------------------------------------------
+# 📈 Current Build Status
 
-> *"Build systems that outlast effort."*
+| Platform | Status |
+|----------|--------|
+| Liwox Recruitment | 🟢 Active |
+| Liwox Forms | 🟢 Active |
+| Forex Delight | 🟡 Growing |
+| AI Receptionist | 🟡 In Progress |
+
+---
+
+# 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/armstrong-uzoagwa/
+- Email: liwox.net@gmail.com
+
+---
+
+> **"Build systems that outlast effort."**
