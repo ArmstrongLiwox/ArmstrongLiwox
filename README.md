@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/7041508.jpg" alt="Armstrong Uzoagwa DevOps Banner" width="100%" />
+<img src="./images/banner.png" alt="Armstrong Uzoagwa DevOps Banner" width="100%" />
 
 # Armstrong Uzoagwa
 
